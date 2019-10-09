@@ -1,0 +1,6 @@
+{"level":"error","message":"Failed miserably!Failed miserably!","stack":"Error: Failed miserably!\n    at Object.<anonymous> (C:\\Users\\user\\Dev\\node\\relatenode\\index.js:31:27)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)\n    at startup (internal/bootstrap/node.js:282:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)"}
+{"message":"Successfully connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening to port number 2500..","level":"info"}
+{"message":"Successfully connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening to port number 2500..","level":"info"}
+{"message":"Successfully connected to mongodb://localhost/vidly...","level":"info"}

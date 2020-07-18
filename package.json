@@ -19,7 +19,7 @@
     "express-load": "^1.1.16",
     "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.6.9",
     "nodemon": "^1.19.1",
     "npm": "^6.10.3",

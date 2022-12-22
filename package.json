@@ -18,7 +18,7 @@
     "express-async-errors": "^3.1.1",
     "express-load": "^1.1.16",
     "install": "^0.13.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.6.9",
     "nodemon": "^1.19.1",
